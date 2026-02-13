@@ -54,7 +54,7 @@ Experienced in developing REST APIs, database schema improvements, and improving
 ### 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mssql,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 - SQL Server
