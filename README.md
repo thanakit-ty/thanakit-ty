@@ -54,11 +54,12 @@ Experienced in developing REST APIs, database schema improvements, and improving
 ### 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mssql,mysql,mongodb" />
 </p>
 
 - SQL Server
 - MySQL
+- MongoDB
 - Query Optimization
 - Schema Improvement
 - Data Migration
